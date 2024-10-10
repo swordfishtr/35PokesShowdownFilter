@@ -1,0 +1,67 @@
+[
+    [
+        "kangaskhan",
+        "wigglytuff",
+        "komala",
+        "haunter",
+        "golurk",
+        "cofagrigus",
+        "glalie",
+        "mr. rime",
+        "kadabra",
+        "medicham",
+        "hitmonchan",
+        "poliwrath",
+        "simipour",
+        "mantine",
+        "silvally-flying",
+        "archeops",
+        "klawf",
+        "aurorus",
+        "mawile",
+        "togedemaru",
+        "electrode",
+        "vikavolt",
+        "pinsir",
+        "wormadam-trash",
+        "simisage",
+        "shiinotic",
+        "victreebel",
+        "skuntank",
+        "silvally-dark",
+        "guzzlord",
+        "silvally-dragon",
+        "turtonator",
+        "simisear",
+        "camerupt",
+        "sandslash"
+    ],
+    {
+        "id": "Test version 2",
+        "ban": [
+            "guzzlord",
+            "camerupt"
+        ],
+        "add": [
+            "caterpie",
+            "xerneas",
+            "zorua"
+        ]
+    },
+    {
+        "id": "Test v34567",
+        "ban": [
+            "xerneas"
+        ],
+        "add": [
+            "groudon"
+        ]
+    },
+    {
+        "id": "last test",
+        "ban": [
+            "skuntank"
+        ],
+        "add": []
+    }
+]
